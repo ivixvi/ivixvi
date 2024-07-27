@@ -20,6 +20,7 @@
   - Docker
   - Logstash
   - OpenSearchDashboards
+  - Datadog
 - Cloud Services
   - AWS (ECS, Lambda, Cognito, CFn, etc...)
   - Cloudflare (workers, KV)
