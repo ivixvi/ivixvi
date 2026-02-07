@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Curently Status⏲️
-- 🌱 Learning Golang / IdM / Ops of Search Engine
+- 🌱 Learning AI-Driven Development Lifecycle / Team Management
 - 🤔 Looking for help with [scim-patch](https://github.com/ivixvi/scim-patch)
 
 ### Skills😎
@@ -24,11 +24,3 @@
 - Cloud Services
   - AWS (ECS, Lambda, Cognito, CFn, etc...)
   - Cloudflare (workers, KV)
-
-### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ivixvi&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivixvi" />
-</a>
